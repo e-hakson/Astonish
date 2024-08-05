@@ -7,7 +7,6 @@ Astonish - Car racing games are a popular genre of video game that allows player
 - [Installation](#installation)
 - [Gameplay](#gameplay)
 - [Controls](#controls)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
