@@ -24,10 +24,10 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/car-racing-game.git
+   git clone https://github.com/e-hakson/Astonish.git
 2. **Navigate to the project directory**
    ```sh
-   cd car-racing-game
+   cd Astonish
 3. **Install the dependencies**
    ```sh
    pip install -r requirements.txt
